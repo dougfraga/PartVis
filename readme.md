@@ -1,5 +1,5 @@
 # PartVis - Ferramentas para Visualização de Partículas
-
+Conjunto de rotinas para auxiliar os usuários de língua portuguesa do modelo MOHID Lagrangian (http://www.mohid.com/pages/models/mohidlagrangian/mohid_lagrangian_home.shtml) no processo de visualização dos resultados gerados.
 ## Mapas
 As rotinas para geração de mapas utiliza os arquivos HDF5 para criar um mapa para cada passo de tempo selecionado pelo usuário. Ao final do processamento, é criando um arquivo animado em formato gif contendo todos os passos de tempo selecionados.
 ### partvis_caixas_gif.py
